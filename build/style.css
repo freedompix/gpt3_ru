@@ -1,0 +1,54 @@
+#mainContainer
+{
+width:100%;  
+}
+#app{
+display: inline-block;
+margin: 0 auto;
+width:80vw; 
+max-width: 800px;  
+}
+
+.containerForText{
+  padding:10px;
+  border: 1px solid #dddddd;
+  margin:0px;
+  margin-bottom:0px;
+}
+
+.textblock
+{
+  margin:20px;
+}
+.text-align-center
+{
+  text-align: center;
+}
+
+.text-align-right
+{
+  text-align: right;
+}
+
+.row
+{
+  margin-bottom: 0 !important;
+}
+
+.mainBlock
+{
+max-width: 800px;  
+}
+
+.myTextarea{
+resize: none;  
+height:100px !important; 
+border:0;
+margin-bottom:10px;
+}
+
+#progressBar{display:none;}
+
+#sendButton1{
+  width:100%;
+}
